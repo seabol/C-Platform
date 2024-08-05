@@ -1,0 +1,140 @@
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\ncku\Desktop\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\USER\Desktop\C#\N96121171_蔡尚哲_C#_第二次測評\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\tsai\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+E:\成大課程與實驗室\C#程式設計\N96121171_蔡尚哲_C__第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\C__第二次測評_HW\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.產能效率.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\USER\Desktop\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test.mdf
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\Test_log.ldf
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe.config
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\bin\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.AssemblyReference.cache
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Form1.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Properties.Resources.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.機台監測.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.設備保養歷史清單.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.電力監測.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.預防保養.resources
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.GenerateResource.cache
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.csproj.CoreCompileInputs.cache
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.exe
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C#_第二次測評.pdb
+C:\Users\Hank\OneDrive - 國立成功大學 National Cheng Kung University\桌面\c#_上課範例\N96121171_蔡尚哲_C#_第二次測評\C#_第二次測評_HW\N96121171_蔡尚哲_C#_第二次測評\obj\Debug\N96121171_蔡尚哲_C__第二次測評.Resources.Form2.resources
